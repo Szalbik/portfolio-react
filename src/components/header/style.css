@@ -1,0 +1,26 @@
+div.header {
+  background: #00e6b8;
+  width: auto;
+  height: 80px;
+  display: flex;
+  align-items: center;
+}
+
+div.logo {
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 7px 10px;
+  margin-left: 50px;
+  font-family: sans-serif;
+}
+
+ul.list-items {
+  list-style: none;
+  display: flex;
+}
+
+li.list-item {
+  padding: 5px 8px;
+  font-size: 18px;
+}
